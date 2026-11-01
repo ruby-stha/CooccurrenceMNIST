@@ -1,6 +1,6 @@
 # Co-occurrence MNIST
 
-A synthetic dataset for studying how conditional generative models handle
+A synthetic dataset for studying how generative models handle
 co-occurrence correlations between objects in an image. Each sample is a 1×2
 grid (32×64 pixels) of two different MNIST digits. Five fixed digit pairs
 co-occur far more often than any other pair, and the strength of that
