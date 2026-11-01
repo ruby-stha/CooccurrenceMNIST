@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this dataset in your research, please cite it."
+type: dataset
+title: "Co-occurrence MNIST: A Synthetic Dataset for Studying Co-occurrence Correlations"
+authors:
+  - family-names: "Shrestha"
+    given-names: "Ruby"
+url: "https://github.com/ruby-stha/CooccurrenceMNIST"
